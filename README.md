@@ -3,8 +3,8 @@
 > apt update && apt upgrade -y
 > pkg install git -y
 > pkg install nodejs -y
-> git clone https://github.com/MrG3P5/Brainly-Scraper.git
-> cd Brainly-Scraper
+> git clone https://github.com/MrG3P5/Tracking-IP.git
+> cd Tracking-IP
 > npm install
 > npm start
 ```
@@ -16,8 +16,8 @@
 - If done open terminal
 
 ```bash
-> git clone https://github.com/MrG3P5/Brainly-Scraper.git
-> cd Brainly-Scraper
+> git clone https://github.com/MrG3P5/Tracking-IP.git
+> cd Tracking-IP
 > npm install
 > npm start
 ```
