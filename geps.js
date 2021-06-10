@@ -51,12 +51,12 @@ console.log(color("                                       'd,  .'", 'red'))
 console.log(color("                                         ;l   ..", 'red'))
 console.log(color("                                          .o", 'red'))
 console.log(color("    [=] Made by : X - MrG3P5 [=]            ", 'cyan'), color("c", "red"))
-console.log(color("    [=] Version : 2.0        [=]             ", 'cyan'), color(".'", "red"))
+console.log(color("    [=] Version : 1.0        [=]             ", 'cyan'), color(".'", "red"))
 console.log(color("                                              ", 'cyan'), color(".'", "red"))
 console.log('')
 console.log('')
 
-// USER INPUT QUESTION
+// USER INPUT QUESTION 
 var recursiveAsyncReadLine = function () {
     rl.question('\033[1;36mIP: \033[1;32m', function (userInput) {
         if (userInput == 'exit' || userInput == 'Exit' || userInput == 'EXIT' || userInput == '') {
