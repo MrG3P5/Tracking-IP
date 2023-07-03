@@ -1,5 +1,7 @@
-/*
+/*evil
+
 * Hanya gabut:v
+
 * Don't be a script kidde:)
 */
 
